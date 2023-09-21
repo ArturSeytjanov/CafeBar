@@ -1,0 +1,18 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    margin: 50px;
+    padding: 50px;
+}
+
+.user {
+    border-top: 3px solid;
+}
+
+.intro {
+    margin: 20px 150px;   
+    text-transform: uppercase; 
+    color: rgba(30, 30, 30, 0.4);
+}
